@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am senior undergraduate student at [Artificial Intelligence Lab ](http://www.ailab.t.u-tokyo.ac.jp/) at The Univerisity of Tokyo
+I am senior undergraduate student at [Artificial Intelligence Lab ](http://www.ailab.t.u-tokyo.ac.jp/) at The Univerisity of Tokyo.
 
 A data-driven personal website
 ======
