@@ -6,7 +6,7 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
-<div class="feature__wrapper">
+<div class="feature__wrapper{% if include.noborder %}--noborder{% endif %}">
 
   {% for f in feature_row %}
 
